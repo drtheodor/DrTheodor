@@ -23,7 +23,7 @@
 
   </a>
 
-  <a href="https://codeberg.org/drtheodor">
+  <a href="https://codeberg.org/drtheo">
     <img alt="See me on Codeberg" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/codeberg-singular_vector.svg">
   </a>
 </div>
