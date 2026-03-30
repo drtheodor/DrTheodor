@@ -34,16 +34,16 @@
 <h2>Here are my stats:</h2>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=DrTheodor&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=DrTheodor&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://github-readme-stats-ashy-one-11.vercel.app/api?username=DrTheodor&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats-ashy-one-11.vercel.app/api?username=DrTheodor&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img alt="User stats" />
 </picture>
 
 <br/>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DrTheodor&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=DrTheodor&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://github-readme-stats-ashy-one-11.vercel.app/api/top-langs/?username=DrTheodor&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats-ashy-one-11.vercel.app/api?username=DrTheodor&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img alt="Most used languages" />
 </picture>
 
