@@ -55,10 +55,23 @@
   <img alt="User stats" />
 </picture>
 
-<br/>
-
 <picture>
   <source srcset="https://github-readme-stats-ashy-one-11.vercel.app/api/top-langs/?username=DrTheodor&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats-ashy-one-11.vercel.app/api?username=DrTheodor&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img alt="Most used languages" />
 </picture>
+
+<details>
+  <summary>Codeberg Stats</summary>
+  <picture>
+  <source srcset="https://codeberg.org/drtheo/profile-stats/media/branch/main/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://codeberg.org/drtheo/profile-stats/media/branch/main/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="User stats" />
+</picture>
+
+<picture>
+  <source srcset="https://codeberg.org/drtheo/profile-stats/media/branch/main/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://codeberg.org/drtheo/profile-stats/media/branch/main/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="Most used languages" />
+</picture>
+</details>
