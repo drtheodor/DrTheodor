@@ -63,7 +63,8 @@
 
 <details>
   <summary>Codeberg Stats</summary>
-  <picture>
+  
+<picture>
   <source srcset="https://codeberg.org/drtheo/profile-stats/media/branch/main/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
   <source srcset="https://codeberg.org/drtheo/profile-stats/media/branch/main/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img alt="User stats" />
@@ -74,4 +75,5 @@
   <source srcset="https://codeberg.org/drtheo/profile-stats/media/branch/main/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img alt="Most used languages" />
 </picture>
+
 </details>
