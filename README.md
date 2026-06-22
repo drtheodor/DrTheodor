@@ -50,14 +50,14 @@
 <h2>Here are my stats:</h2>
 
 <picture>
-  <source srcset="https://github-readme-stats-ashy-one-11.vercel.app/api?username=DrTheodor&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats-ashy-one-11.vercel.app/api?username=DrTheodor&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://raw.githubusercontent.com/drtheodor/github-stats/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/drtheodor/github-stats/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img alt="User stats" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats-ashy-one-11.vercel.app/api/top-langs/?username=DrTheodor&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats-ashy-one-11.vercel.app/api?username=DrTheodor&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://raw.githubusercontent.com/drtheodor/github-stats/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/drtheodor/github-stats/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img alt="Most used languages" />
 </picture>
 
